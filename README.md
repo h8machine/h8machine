@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there! Updates soon... 👋
 
 <!--
 **h8machine/h8machine** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
